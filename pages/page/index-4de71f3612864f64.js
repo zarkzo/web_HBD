@@ -46,19 +46,19 @@
           X = [
             {
               type: "image",
-              src: "/gallery/gambar1.png",
+              src: "/gallery/gambar1.jpg",
               caption: "Semoga",
               fallback: "\uD83C\uDF88",
             },
             {
               type: "image",
-              src: "/gallery/gambar2.png",
+              src: "/gallery/gambar2.jpg",
               caption: "Bahagia",
               fallback: "\uD83D\uDE0A",
             },
             {
               type: "image",
-              src: "/gallery/gambar3.png",
+              src: "/gallery/gambar3.jpg",
               caption: "Selalu",
               fallback: "\uD83C\uDF81",
             },
@@ -110,7 +110,7 @@
           ec =
             "string" == typeof eo.query.pesan
               ? eo.query.pesan
-              : "Haiii, selamat ulang tahun yaa sayang! Hari ini aku pengen kamu ngerasain semua vibes positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu bersyukur bisa ngeliat kamu jadi versi terbaik dari dirimu, yang kadang-kadang lucu banget pas lagi baper, tapi juga selalu bikin aku tersenyum tanpa henti.\n\nMakasih udah jadi temen curhat, partner in crime, dan sumber inspirasi sehari-hari. Semoga tahun ini kamu makin kece, makin banyak momen bahagia, dan makin dicintai, karena kamu emang pantas dapetin semua itu. Jangan lupa, kita bakal terus jalan bareng, ngejar mimpi, dan ngelewatin segala drama hidup dengan tawa. Happy birthday, love!";
+              : "Dear MY BESTIE💕Seseorang yang dapat kuceritakan isi hatiku. Yang dapat memahamiku seperti tiada duanya. Yang dapat membuatku tertawa tanpa batas, HAPPY BIRTHDAY TO MY BESTIE MY beiib OWA!!!🥳🦧💐 semoga sehat selalu, berkah usiamu, selalu bahagia dan membuat bahagia orang-orang disekitarmu🥰🫂\n Semoga semakin lebih baik lagi di setiap harinya, dan selalu mendampingiku till Jannah😚😇 \n Kamu adalah cewe GILA yang paling GILA tapi kamu lucu dan santai yang pernah kutemui meskipun hadiahku hanya ucapan dan pelukan. Pokoknya, aku hanya ingin mengatakan selamat ulang tahun, PSYCEL ZAHQINDI GEA KENCANA💃🧚🏻‍♂️ jangan biarkan siapa pun merusak hari besarmu sayang, kamu sangat besar 23+1➡️2️⃣4️⃣🥳😱🤩!";
         "string" == typeof eo.query.umur && eo.query.umur,
           (0, c.useEffect)(() => {
             {
@@ -1808,3 +1808,4 @@
     e.O(0, [636, 593, 792], () => a(6760)), (_N_E = e.O());
   },
 ]);
+
